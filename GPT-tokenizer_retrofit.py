@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 """
-🚀Transform ANY existing model (GPT, Claude, LLaMA, etc.) with our dynamic tokenizer system! 🚀
-
-
 WHAT THIS DOES:
 ✅ Injects dynamic vocabulary into static models
 ✅ Perfect concept preservation (no more fragmentation!)
